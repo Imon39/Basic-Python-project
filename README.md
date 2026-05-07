@@ -1,2 +1,18 @@
-# Basic-Python-project
-This repository contains beginner to intermediate level Python programming practice codes, assignments, and mini projects. It is designed for learning core Python concepts such as data types, control statements, functions, Machine learning basics, file handling, and basic data structures.
+# Basic Python Course
+
+Welcome to the Basic Python Course Repository.
+
+This repository contains:
+
+- Python basics
+- String operations
+- Lists, Tuples, Dictionaries, Sets
+- Functions
+- Loops and Conditions
+- File Handling
+- Object-Oriented Programming
+- Machine learning basics
+- Mini Projects
+- Practice Exercises
+
+This repository is beginner-friendly and helpful for students who are starting Python programming.
